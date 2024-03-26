@@ -23,8 +23,7 @@ let package = Package(
             name: "WormholySwift",
             dependencies: [],
             exclude: [
-                "Models/Postman/Postman_demo_collection.json",
-                "Support Files/Assets.xcassets"
+                "Models/Postman/Postman_demo_collection.json"
             ],
             resources: [
                 .process("Resources/ActionableTableViewCell.xib"),
