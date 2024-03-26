@@ -1,0 +1,15 @@
+{
+  "originHash" : "949a01f676d15ee063acb643f62fab066091d538b3827b1ebc6228f8d4f48a2c",
+  "pins" : [
+    {
+      "identity" : "wormholy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ipavlidakis/Wormholy",
+      "state" : {
+        "branch" : "master",
+        "revision" : "04ea2a3bf9950e62fa743542082d55fd2caaca6f"
+      }
+    }
+  ],
+  "version" : 3
+}
